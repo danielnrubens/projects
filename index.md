@@ -1,8 +1,10 @@
 ## Welcome to Daniel Rubens' GitHub Project Page
 
-You can use the [editor on GitHub](https://github.com/danielnrubens/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a fiercely entrepreneurial businessperson with many years of product, customer, marketing, and business development experience running a renowned architectural lighting studio in Manhattan, NY. I have an advanced degree in business and analytics and am a Python programmer with machine learning and big data training. I'm also fanatical about virtual and augmented reality and after many years in Manhattan have found myself in Bellevue, WA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm using this page to host projects I've worked on in analytics, big data, and machine learning. New projects will be posted regularly.
+
+Thank you so much for visiting my page!
 
 ### Markdown
 

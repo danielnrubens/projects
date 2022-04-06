@@ -4,4 +4,4 @@ I am a fiercely entrepreneurial businessperson with many years of product, custo
 
 I'm using this page to host projects I've worked on in analytics, big data, and machine learning. New projects will be posted regularly.
 
-# Thank you so much for visiting my page!
+#### Thank you so much for visiting my page!

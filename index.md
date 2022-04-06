@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Daniel Rubens' GitHub Project Page
 
 You can use the [editor on GitHub](https://github.com/danielnrubens/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
